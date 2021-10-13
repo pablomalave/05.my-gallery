@@ -14,10 +14,11 @@ body{
     font-weight: 600;
     font-size: 10px;
     color: #4E5150;
+    margin: 5%;
 }
 
 img{
-    width: 20%;
+  border-radius: 10px;
 }
 
 /* Author Content */
@@ -25,8 +26,13 @@ img{
     text-align: center;
 }
 
+.author-photo{
+  width: 30%;
+}
+
 .author-name{
     font-size: 1.4em;/*14px*/
+    padding: 0;
 }
 
 .author-location{
@@ -43,10 +49,47 @@ img{
 .dataCard{
     font-size: 1.2em;/*12px*/
     background: #E5E5E5;
+    width: 30%;
+    border-radius: 10px;
 }
 
 .data-concept{
     color: #BDBDBD;
+}
+
+/*Gallery*/
+.gallery-content{
+  display: grid;
+  grid-template-areas: "photo1 photo2 photo2"
+                        "photo3 photo3 photo4"
+                        "photo5 photo6 photo4";
+  align-items: stretch;
+  column-gap: 2% ;
+  row-gap: 2%;
+  margin: 10% 0;
+}
+
+.photo{
+  width: 100%;
+}
+
+.photo1{
+  grid-area: photo1;
+}
+.photo2{
+  grid-area: photo2;
+}
+.photo3{
+  grid-area: photo3;
+}
+.photo4{
+  grid-area: photo4;
+}
+.photo5{
+  grid-area: photo5;
+}
+.photo6{
+  grid-area: photo6;
 }
 
 /* Footer */
