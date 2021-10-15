@@ -44,6 +44,7 @@ This is a web page of a user profile of a social network similar to Instagram.
 It was made using a combination of Flexbox and Grid.
 
 ![screenshot](img/MobileDesign.jpeg)
+![screenshot](img/gridAreas.jpeg)
 
 
 
@@ -72,9 +73,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - Chris Coyer. [A Complete Guide to Flexbox. ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 2013 - 2021.
 - Chris Coyer. [A Complete Guide to Grid. ](https://css-tricks.com/snippets/css/complete-guide-grid/) 2013 - 2021.
+- Thu Nghiem [Steps to replicate a design with only HTML and CSS.](https://devchallenges-blogs.web.app/how-to-replicate-design/) 2020.
 
 
 ## Contact
