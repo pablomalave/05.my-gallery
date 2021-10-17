@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://vercel.com/pablomalave/05-my-gallery">
+    <a href="https://05-my-gallery.vercel.app/">
       Demo
     </a>
     <span> | </span>
