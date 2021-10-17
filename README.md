@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Canaima Park - Gallery</h1>
 <h3 align="center">My Gallery Challenge</h3>
 
@@ -44,6 +42,9 @@ This is a web page of a user profile of a social network similar to Instagram.
 It was made using a combination of Flexbox and Grid.
 
 ![screenshot](img/MobileDesign.jpeg)
+
+The gallery was set using 3x3 Grid. To distribute the photos, there was use Grid Areas. An area for each photo.
+
 ![screenshot](img/gridAreas.jpeg)
 
 
@@ -71,10 +72,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
 - Chris Coyer. [A Complete Guide to Flexbox. ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 2013 - 2021.
 - Chris Coyer. [A Complete Guide to Grid. ](https://css-tricks.com/snippets/css/complete-guide-grid/) 2013 - 2021.
+- Juan Diego Gauchat. [El gran libro de HTML5, CSS3 y Javascript](#) 2013. Marcombo - Ediciones Técnicas.
 - Thu Nghiem [Steps to replicate a design with only HTML and CSS.](https://devchallenges-blogs.web.app/how-to-replicate-design/) 2020.
 
 
